@@ -1,4 +1,4 @@
-// File: /home/macoding/varity-workspace/dogfood-chat-0502/app/page.tsx
+// File: /tmp/varity-migrate-live-PYxWS0/app/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
